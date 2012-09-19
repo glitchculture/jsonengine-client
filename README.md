@@ -5,7 +5,7 @@ Multi-platform client for jsonengine, for use with jsonengine running on GAE.
 
 http://code.google.com/p/jsonengine/
 
-Languages supported: 
+Languages/platforms supported: 
 
 -C# (Unity 3D, XNA, .NET, etc)
 
