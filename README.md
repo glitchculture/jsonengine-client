@@ -7,7 +7,7 @@ http://code.google.com/p/jsonengine/
 
 Languages supported: 
 
--C# (Unity 3D, .NET, etc)
+-C# (Unity 3D, XNA, .NET, etc)
 
 -Lua (LOVE2D, Moai, etc)
 
