@@ -1,7 +1,9 @@
 jsonengine-client
 =================
 
-Multi-platform client for jsonengine.
+Multi-platform client for jsonengine, for use with jsonengine running on GAE.
+
+http://code.google.com/p/jsonengine/
 
 Languages supported: 
 -C# (Unity 3D, .NET, etc)
